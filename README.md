@@ -1,27 +1,37 @@
-# **HOLA!** Mi Nombre es David Alejandro Orozco Casas
+# 👋 ¡Hola! Soy David Alejandro Orozco Casas
 
-## ¿Quien soy?
+## 🚀 ¿Quién soy?
 
-Soy un desarrollador Full Stack con enfoque en el backend, apasionado por construir soluciones robustas y escalables. 
+Soy Ingeniero de Sistemas y Desarrollador Full Stack con un enfoque sólido en el backend. Apasionado por crear soluciones tecnológicas eficientes, seguras y escalables, 
+disfruto enfrentar desafíos técnicos que exigen pensamiento crítico, creatividad y buenas prácticas de desarrollo.
 
-Inicié mi camino en el mundo de la programación a los 19 años, lo cual despertó en mí una gran pasión por la tecnología y el desarrollo. Desde entonces, he centrado mi carrera en la ingeniería de sistemas.  Mis primeras aventuras en el mundo de la programación me llevaron a trabajar con lenguajes como Java, C#, C++ y Python. A lo largo de mi trayecto, he adquirido experiencia en diversas tecnologías y frameworks.
+Me he formado intensamente en tecnologías como **C#, .NET, SQL Server, ReactJS y Docker**, combinando estudios académicos con experiencias prácticas en desarrollo web, 
+ciberseguridad y despliegue en la nube. Me caracterizo por ser autodidacta, orientado a resultados y comprometido con la mejora continua.
 
-## ¿Que hago?
+## 🛠 ¿Qué hago?
 
-Actualmente, me encuentro en la etapa final de mi carrera en Ingeniería de Sistemas y, al mismo tiempo, me dedico a la realización de proyectos que me permiten continuar mi formación como programador. Mi verdadera pasión radica en encontrar soluciones a situaciones de la vida real a través del código.
+Actualmente me especializo en el desarrollo de APIs RESTful y aplicaciones web robustas, aplicando principios SOLID, patrones de diseño y metodologías ágiles. Disfruto automatizar procesos, optimizar sistemas y colaborar en proyectos que generen impacto real.
 
-Me entusiasma la oportunidad de enfrentar desafíos y trabajar en proyectos que requieran creatividad y habilidades técnicas. Disfruto explorar nuevas tecnologías y tendencias en el mundo del desarrollo, siempre en búsqueda de soluciones innovadoras y eficientes.
+También participo activamente en el aprendizaje de nuevas herramientas y tendencias, manteniéndome actualizado para aportar soluciones modernas y efectivas.
 
-## ¿A donde me dirijo? 
+## 🎯 ¿Hacia dónde voy?
 
-Mi pasión por la programación me impulsa a buscar constantemente oportunidades para aprender, crecer y superar nuevos desafíos en este apasionante campo. Mi objetivo principal es seguir evolucionando como profesional en el desarrollo de software, ampliando mis habilidades técnicas y adquiriendo experiencia en proyectos desafiantes.
+Mi objetivo es seguir creciendo como desarrollador, enfrentando retos que me permitan fortalecer mis conocimientos en arquitectura de software, cloud computing y DevOps. 
+Aspiro a contribuir en proyectos innovadores y de alto nivel técnico, donde el código se convierta en una herramienta de transformación.
 
-## ¿Que tecnologias uso?
-- **JavaScript**
-- **ReactJs**
-- **Redux**
-- **NodeJs**
-- **Express**
-- **Posgres SQL**
-- **Sequelize**
-- **Git**
+## 🧰 Tecnologías y herramientas que uso con frecuencia:
+
+- **Lenguajes:** C#, JavaScript, TypeScript  
+- **Frontend:** React.js, Redux, HTML, CSS  
+- **Backend:** .NET, Node.js, Express  
+- **Base de datos:** SQL Server, PostgreSQL  
+- **DevOps & Cloud:** Docker, Azure  
+- **Testing & Automatización:** Selenium  
+- **Control de versiones:** Git, GitHub  
+- **Buenas prácticas:** SOLID, Clean Code, Arquitectura por capas
+
+---
+
+📫 **¿Quieres conectar o colaborar?**  
+Encuéntrame en [LinkedIn](https://www.linkedin.com/in/david-alejandro-orozco-casas) 
+
